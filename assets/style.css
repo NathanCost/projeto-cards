@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #e676e6;
-    --card-back-color: #e871f3;
+    --text-color: #000000;
+    --card-front-color: #dd95dd;
+    --card-back-color: #000000;
 }
 
 body {
-    background-color: #717479;
+    background-color: #000000;
 }
 
 #container {
@@ -113,3 +113,6 @@ footer p {
         font-size: 3.8vw;
     }
 }
+    .h2{
+        color: #DBE4EF;
+    }

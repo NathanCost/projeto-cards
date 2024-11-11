@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Marcas de Luxo',
     'Quais as principais marcas de luxo?',
-    'Estão entre as principais marcas de liuxo: Louis Vitton, Hermès e Dior'
+    'Estão entre as principais marcas de luxo: Louis Vitton, Hermès e Dior'
 )
 
 criaCartao(
@@ -30,7 +30,7 @@ criaCartao(
 criaCartao(
     'Desfiles',
     'Quais os desfiles mais conhecidos?',
-    'New York Fashion Week e Milan Feshion Week'
+    'New York Fashion Week e Milan Fashion Week'
 )
 criaCartao(
     'Angenls',
@@ -40,5 +40,10 @@ criaCartao(
 criaCartao(
     'victoria s Secret',
     'O que é a Victoria s Secret?',
-    'Victortia s Secret é uma marca americada de ligerie'
+    'Victortia s Secret é uma marca ligerie americana'
+)
+criaCartao(
+    'Gringas',
+    'Quais as americanas mais vistas nos atuais desfiles?',
+    'Alex Consani e Anok Yai'
 )
